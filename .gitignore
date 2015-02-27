@@ -1,5 +1,3 @@
-LICENSE.txt
-README.txt
 administrator/cache/index.html
 administrator/components/com_admin/admin.php
 administrator/components/com_admin/admin.xml
@@ -2792,7 +2790,6 @@ images/sampledata/parks/parks.gif
 includes/defines.php
 includes/framework.php
 includes/index.html
-index.php
 installation/application/bootstrap.php
 installation/application/defines.php
 installation/application/framework.php
@@ -3106,7 +3103,6 @@ installation/view/summary/html.php
 installation/view/summary/index.html
 installation/view/summary/tmpl/default.php
 installation/view/summary/tmpl/index.html
-joomla.xml
 language/en-GB/en-GB.com_ajax.ini
 language/en-GB/en-GB.com_config.ini
 language/en-GB/en-GB.com_contact.ini
@@ -5578,13 +5574,14 @@ templates/system/images/selector-arrow.png
 templates/system/index.html
 templates/system/index.php
 templates/system/offline.php
+tmp/
 tmp/index.html
-web.config.txt
 .htaccess
 configuration.php
-nbproject
-error/
-stats/
-index.html
-tmp/
-/templates/ballroom/prepros.cfg
+htaccess.txt
+index.php
+joomla.xml
+LICENSE.txt
+README.txt
+web.config.txt
+web.config
